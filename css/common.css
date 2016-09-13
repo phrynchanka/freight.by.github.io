@@ -129,3 +129,7 @@ body {
       -webkit-animation-duration: 1s;
       visibility: visible;
   }
+
+  .about{
+      color:#39c2d7;
+  }
