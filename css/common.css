@@ -73,6 +73,7 @@ body {
       border-color: #39c2d7;
       border-radius:0 !important;
       transition: box-shadow 0.5s;
+
   }
   .panel:hover {
       box-shadow: 5px 0px 40px rgba(0,0,0, .2);
@@ -112,7 +113,7 @@ body {
       color: #fff !important;
   }
   .glyphicon {
-  	color :#39c2d7;
+  	color :white;
   }
   footer .glyphicon {
       font-size: 20px;
