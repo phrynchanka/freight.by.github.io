@@ -120,6 +120,10 @@ body {
       margin-bottom: 20px;
     
   }
+  
+  #contact .glyphicon{
+	  color : #39c2d7;
+  }
  
   .slideanim {visibility:hidden;}
   .slide {
