@@ -1,3 +1,3 @@
-*.sublime-project
-*.sublime-workspace
-.idea/*
+_site
+.sass-cache
+.jekyll-metadata
